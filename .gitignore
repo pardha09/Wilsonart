@@ -1,0 +1,7 @@
+#####################
+## Ignore files
+#####################
+/.vs/*
+/prj_jsonapp\bin/*
+/prj_jsonapp/obj/*
+Sampleprograms.csproj
