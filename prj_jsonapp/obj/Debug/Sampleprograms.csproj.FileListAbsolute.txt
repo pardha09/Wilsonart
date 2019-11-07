@@ -1,0 +1,6 @@
+D:\Pardha\Learning\C#\MyCode\SampleApps\prj_jsonapp\bin\Debug\sample.programs.exe.config
+D:\Pardha\Learning\C#\MyCode\SampleApps\prj_jsonapp\bin\Debug\sample.programs.exe
+D:\Pardha\Learning\C#\MyCode\SampleApps\prj_jsonapp\bin\Debug\sample.programs.pdb
+D:\Pardha\Learning\C#\MyCode\SampleApps\prj_jsonapp\obj\Debug\sample.programs.exe
+D:\Pardha\Learning\C#\MyCode\SampleApps\prj_jsonapp\obj\Debug\sample.programs.pdb
+D:\Pardha\Learning\C#\MyCode\SampleApps\prj_jsonapp\obj\Debug\Sampleprograms.csprojAssemblyReference.cache
